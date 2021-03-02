@@ -1,0 +1,7 @@
+<Project>
+  <ItemGroup>
+    <PackageVersion Include="Expecto" Version="9.*" />
+    <PackageVersion Include="YoloDev.Expecto.TestSdk" Version="0.*" />
+    <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="16.*" />
+  </ItemGroup>
+</Project>
